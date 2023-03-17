@@ -34,9 +34,6 @@ php artisan key:generate
 7. Run database migrations to create the required tables:
 php artisan migrate
 
-markdown
-Copy code
-
 8. Start the development server:
 php artisan serve
 
