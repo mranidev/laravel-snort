@@ -38,7 +38,7 @@ Once you have these installed, follow these steps to get started:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/laravel-snort.git
+git clone https://github.com/mranidev/laravel-snort.git
 
 2. Install the required PHP packages:
 composer install
