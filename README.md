@@ -4,11 +4,11 @@ Snort is an open-source intrusion detection system that can help detect network 
 
 The project uses the popular PHP framework as a backend API and Angular as a frontend JavaScript framework to display Snort log data to the user. By parsing Snort log files, the application can extract useful information such as the source and destination IP addresses, the type of attack detected, and other relevant data.
 
-sensors stores information about the sensors that are sending log data to the application, including the sensor's name and description.
+Sensors stores information about the sensors that are sending log data to the application, including the sensor's name and description.
 
-logs stores the actual log data, including the timestamp, source and destination IP addresses, source and destination ports, the protocol used, and the ID of the category that the log belongs to.
+Logs stores the actual log data, including the timestamp, source and destination IP addresses, source and destination ports, the protocol used, and the ID of the category that the log belongs to.
 
-categories stores information about the different categories of attacks that the application can detect, including the category's name and description.
+Categories stores information about the different categories of attacks that the application can detect, including the category's name and description.
 
 ## Getting Started
 
