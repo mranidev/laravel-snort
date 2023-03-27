@@ -62,4 +62,4 @@ If you'd like to contribute to Laravel-Snort, please fork the repository and sub
 
 ## License
 
-Laravel-Snort is open source software licensed under the MIT license. See the LICENSE file for more information.
+Laravel-Snort is open source software licensed under the GPL-3.0 license. See the LICENSE file for more information.
